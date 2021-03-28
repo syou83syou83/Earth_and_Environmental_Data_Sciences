@@ -1,0 +1,2 @@
+https://earth-env-data-science.github.io/lectures/environment/intro_to_unix.html
+
