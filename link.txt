@@ -2,6 +2,8 @@ course link
 https://earth-env-data-science.github.io/lectures/environment/intro_to_unix.html
 
 Binder basically let anyone run your code with the environment you set, allowing others to reproduce your results. 
+web:  https://mybinder.org/
 
-If you want binderbadge to run another jupyter notebook, you need to change that file in readme.rst accordingly. 
+
+If you want binder to run another jupyter notebook, you need to change that file in readme.rst accordingly. 
 Branch should be right too, currently in master branch. 
